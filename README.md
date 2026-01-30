@@ -69,12 +69,6 @@ This dashboard provides a comprehensive view of e-commerce performance with **Ye
 
 ---
 
-## 🖼 Dashboard Preview
-
-![E-Commerce Sales Dashboard](dashboard.png)
-
----
-
 ## 🔮 Future Enhancements
 
 * Drill-through pages for product & customer analysis
